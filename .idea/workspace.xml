@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d591aa76-527f-4084-89c6-35b3e6c4fa51" name="Default Changelist" comment="add file eee.txt" />
+    <list default="true" id="d591aa76-527f-4084-89c6-35b3e6c4fa51" name="Default Changelist" comment="idea  cherry-pick test" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,19 +33,6 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -54,7 +41,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1609990417722</updated>
-      <workItem from="1609990419257" duration="2141000" />
+      <workItem from="1609990419257" duration="2551000" />
     </task>
     <task id="LOCAL-00001" summary="just a commit">
       <created>1609990475143</created>
@@ -98,7 +85,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610003220042</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="idea  cherry-pick test">
+      <created>1610004001760</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1610004001760</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -122,6 +116,7 @@
     <MESSAGE value="add file ccc.txt" />
     <MESSAGE value="add file ddd.txt" />
     <MESSAGE value="add file eee.txt" />
-    <option name="LAST_COMMIT_MESSAGE" value="add file eee.txt" />
+    <MESSAGE value="idea  cherry-pick test" />
+    <option name="LAST_COMMIT_MESSAGE" value="idea  cherry-pick test" />
   </component>
 </project>
